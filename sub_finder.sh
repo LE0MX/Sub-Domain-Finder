@@ -1,4 +1,5 @@
 #!/bin/bash
+#LE0MX
 
 if [ $1 == ""]
 then
